@@ -7,12 +7,14 @@
 
  | 模型 |  MLR   | LDA  | DT | Perceptron | K-means | Bayes |
  | ---- |  ----  | ----  | ----  | :----:  | :----:  | ----  |
- | 数据集 | ✅ | ✅ | ✅  | ✅ | ✅  | ✅ |
- | 代码  | ✅ | ✅  | ✅ | ✅  | ✅ | ❎ |
+ | 数据  | ✅ | ✅ | ✅  | ✅ | ✅  | ✅ |
+ | 代码  | ✅ | ✅  | ✅ | ✅  | ✅ | ✅ |
+ | 上传  | ❎ | ❎  | ❎ | ❎  | ❎ | ❎ |
 
 ## TODO  
-    · 将源代码上传
-    · 完成Bayes分类器
+<s>将源代码上传</s>  
+<s>完成Bayes分类器</s>    
+上传源代码及实现  
 
  ## 机器学习实验课相关文件  
 *  [Multiple Linear Regression](https://github.com/KevinLL218/MachineLearning-Study/tree/main/Multiple%20Linear%20Regression)  &nbsp;|&nbsp;多元线性回归
